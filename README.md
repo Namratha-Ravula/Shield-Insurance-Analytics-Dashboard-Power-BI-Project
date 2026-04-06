@@ -5,8 +5,7 @@ This project was developed as part of the CodeBasics Virtual Internship, focusin
 
 The goal was to transform raw data into an interactive dashboard that helps stakeholders understand customer behavior, revenue trends, and policy performance.
 
-## 🚀 Live Dashboard
-🔗 https://app.powerbi.com/reportEmbed?reportId=fac9dbd8-e9ce-455d-8f09-1e9bd20f9a1e&autoAuth=true&ctid=6b807360-f0db-4585-b934-8b35e02bb669
+## 🚀 [Live Dashboard](https://app.powerbi.com/reportEmbed?reportId=fac9dbd8-e9ce-455d-8f09-1e9bd20f9a1e&autoAuth=true&ctid=6b807360-f0db-4585-b934-8b35e02bb669)
 
 ## 🎯 Problem Statement
 Shield Insurance wanted a data-driven solution to:
